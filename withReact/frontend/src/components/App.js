@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <p>React here!</p>
-      
+      <p>Look! This is React App!</p>
     </div>
   );
 };
