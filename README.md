@@ -13,3 +13,6 @@ build 後、withReact フォルダに移動して Django を起動する
 ```bash
 python manage.py runserver
 ```
+
+### 参考文献
+[環境構築](https://qiita.com/sand/items/15da91117c680a618c2b)
